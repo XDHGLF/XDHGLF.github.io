@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://co2co2.cf/"/>
-  <updated>2021-10-05T06:55:59.205Z</updated>
+  <updated>2022-04-10T02:29:53.284Z</updated>
   <id>https://co2co2.cf/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>各种文库下载方法汇总</title>
+    <link href="https://co2co2.cf/2022/04/05/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB/"/>
+    <id>https://co2co2.cf/2022/04/05/文库下载方法汇总/</id>
+    <published>2022-04-04T16:00:00.000Z</published>
+    <updated>2022-04-10T02:29:53.284Z</updated>
+    
+    <content type="html"><![CDATA[<p>支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等</p><a id="more"></a><blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="/medias/contact.jpg" alt></p><h1 id="下载道客巴巴文档"><a href="#下载道客巴巴文档" class="headerlink" title="下载道客巴巴文档"></a>下载道客巴巴文档</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>油猴插件：Wenku Doc Downloader<br>支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等<br>下载地址<a href="https://greasyfork.org/zh-CN/scripts/435884-wenku-doc-downloader" target="_blank" rel="noopener">https://greasyfork.org/zh-CN/scripts/435884-wenku-doc-downloader</a></p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>1、在PC端浏览器找到对应文档；<br>2、点击“用稻壳阅读器打开”；<br>3、点击下载稻壳阅读器（体积很小）并安装；<br>4、回到网页端继续点击“用稻壳阅读器打开”；<br>5、打开后点击稻壳阅读器左上角“另存为”，选择保存为pdf格式；<br>6、保存过程较慢，需要将文档从头至尾滚动一次，确保所有页面都加载出来，不足之处在于保存的pdf文档无法复制，且体积较大。</p><h1 id="其他文库下载工具"><a href="#其他文库下载工具" class="headerlink" title="其他文库下载工具"></a>其他文库下载工具</h1><p>百度文库解析app <a href="https://wwi.lanzoup.com/i2GGTxvojif" target="_blank" rel="noopener">https://wwi.lanzoup.com/i2GGTxvojif</a> 输入文档地址解析成html文件分享到微信，电脑上再转为pdf</p><p>复活版冰点文库 <a href="https://wwi.lanzoui.com/i28r7vzo9gf" target="_blank" rel="noopener">https://wwi.lanzoui.com/i28r7vzo9gf</a></p><p>小叶文档下载器 <a href="https://wwx.lanzoui.com/iAYKxisv6wf" target="_blank" rel="noopener">https://wwx.lanzoui.com/iAYKxisv6wf</a></p><p>道客巴巴文库下载工具 <a href="https://www.lanzoui.com/itt5wtn4odi，需要下载最新Chromedriver文件到软件目录，下载的文件在output目录（如果没有可以自己建output目录后下载），有问题加微信" target="_blank" rel="noopener">https://www.lanzoui.com/itt5wtn4odi，需要下载最新Chromedriver文件到软件目录，下载的文件在output目录（如果没有可以自己建output目录后下载），有问题加微信</a> sushengbuhuo，教程见文章 <a href="https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A</a> ，写得很明白了。</p><p>豆丁文档下载工具<a href="https://www.lanzoup.com/iPXALxo32ah" target="_blank" rel="noopener">https://www.lanzoup.com/iPXALxo32ah</a></p><p>下载百度文库Chrome扩展 <a href="https://wwi.lanzoui.com/iC621omxcfg" target="_blank" rel="noopener">https://wwi.lanzoui.com/iC621omxcfg</a></p><p>原创力文档下载 <a href="https://wwi.lanzoui.com/iFpSmvrhvpg" target="_blank" rel="noopener">https://wwi.lanzoui.com/iFpSmvrhvpg</a> ，原创力ppt下载 <a href="https://wwi.lanzoui.com/i6u5nwux8be" target="_blank" rel="noopener">https://wwi.lanzoui.com/i6u5nwux8be</a> ，和道客巴巴一样需要下载最新Chromedriver文件</p><p>南瓜文档 <a href="https://sourl.cn/FKJE57" target="_blank" rel="noopener">https://sourl.cn/FKJE57</a></p><p>一键解除复制百度文库教程 <a href="https://mp.weixin.qq.com/s/miyrPlKG015GIWvkfpMSkA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/miyrPlKG015GIWvkfpMSkA</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="文库下载" scheme="https://co2co2.cf/categories/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD/"/>
+    
+    
+      <category term="文库下载" scheme="https://co2co2.cf/tags/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>为啥这样才行</title>
@@ -204,28 +226,6 @@
   </entry>
   
   <entry>
-    <title>各种文库下载方法汇总</title>
-    <link href="https://co2co2.cf/2020/07/26/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95%E6%B1%87%E6%80%BB/"/>
-    <id>https://co2co2.cf/2020/07/26/文库下载方法汇总/</id>
-    <published>2020-07-25T16:00:00.000Z</published>
-    <updated>2022-04-10T01:58:09.905Z</updated>
-    
-    <content type="html"><![CDATA[<p>支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等</p><a id="more"></a><blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="/medias/contact.jpg" alt></p><h1 id="下载道客巴巴文档"><a href="#下载道客巴巴文档" class="headerlink" title="下载道客巴巴文档"></a>下载道客巴巴文档</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>油猴插件：Wenku Doc Downloader<br>支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等<br>下载地址<a href="https://greasyfork.org/zh-CN/scripts/435884-wenku-doc-downloader" target="_blank" rel="noopener">https://greasyfork.org/zh-CN/scripts/435884-wenku-doc-downloader</a></p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>1、在PC端浏览器找到对应文档；<br>2、点击“用稻壳阅读器打开”；<br>3、点击下载稻壳阅读器（体积很小）并安装；<br>4、回到网页端继续点击“用稻壳阅读器打开”；<br>5、打开后点击稻壳阅读器左上角“另存为”，选择保存为pdf格式；<br>6、保存过程较慢，需要将文档从头至尾滚动一次，确保所有页面都加载出来，不足之处在于保存的pdf文档无法复制，且体积较大。</p><h1 id="其他文库下载工具"><a href="#其他文库下载工具" class="headerlink" title="其他文库下载工具"></a>其他文库下载工具</h1><p>百度文库解析app <a href="https://wwi.lanzoup.com/i2GGTxvojif" target="_blank" rel="noopener">https://wwi.lanzoup.com/i2GGTxvojif</a> 输入文档地址解析成html文件分享到微信，电脑上再转为pdf</p><p>复活版冰点文库 <a href="https://wwi.lanzoui.com/i28r7vzo9gf" target="_blank" rel="noopener">https://wwi.lanzoui.com/i28r7vzo9gf</a></p><p>小叶文档下载器 <a href="https://wwx.lanzoui.com/iAYKxisv6wf" target="_blank" rel="noopener">https://wwx.lanzoui.com/iAYKxisv6wf</a></p><p>道客巴巴文库下载工具 <a href="https://www.lanzoui.com/itt5wtn4odi，需要下载最新Chromedriver文件到软件目录，下载的文件在output目录（如果没有可以自己建output目录后下载），有问题加微信" target="_blank" rel="noopener">https://www.lanzoui.com/itt5wtn4odi，需要下载最新Chromedriver文件到软件目录，下载的文件在output目录（如果没有可以自己建output目录后下载），有问题加微信</a> sushengbuhuo，教程见文章 <a href="https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/tR9J-FK_2DKnppnrBGdA4A</a> ，写得很明白了。</p><p>豆丁文档下载工具<a href="https://www.lanzoup.com/iPXALxo32ah" target="_blank" rel="noopener">https://www.lanzoup.com/iPXALxo32ah</a></p><p>下载百度文库Chrome扩展 <a href="https://wwi.lanzoui.com/iC621omxcfg" target="_blank" rel="noopener">https://wwi.lanzoui.com/iC621omxcfg</a></p><p>原创力文档下载 <a href="https://wwi.lanzoui.com/iFpSmvrhvpg" target="_blank" rel="noopener">https://wwi.lanzoui.com/iFpSmvrhvpg</a> ，原创力ppt下载 <a href="https://wwi.lanzoui.com/i6u5nwux8be" target="_blank" rel="noopener">https://wwi.lanzoui.com/i6u5nwux8be</a> ，和道客巴巴一样需要下载最新Chromedriver文件</p><p>南瓜文档 <a href="https://sourl.cn/FKJE57" target="_blank" rel="noopener">https://sourl.cn/FKJE57</a></p><p>一键解除复制百度文库教程 <a href="https://mp.weixin.qq.com/s/miyrPlKG015GIWvkfpMSkA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/miyrPlKG015GIWvkfpMSkA</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;支持①百度文库②豆丁网③道客巴巴④360doc个人图书馆⑤得力文库⑥MBA智库⑦爱问共享资料（新浪文档）、原创力文档等&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="文库下载" scheme="https://co2co2.cf/categories/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD/"/>
-    
-    
-      <category term="文库下载" scheme="https://co2co2.cf/tags/%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
     <title>内容测试2</title>
     <link href="https://co2co2.cf/2020/07/26/%E7%9E%8E%E5%86%99/"/>
     <id>https://co2co2.cf/2020/07/26/瞎写/</id>
@@ -324,7 +324,7 @@
     <published>2020-04-26T15:57:53.000Z</published>
     <updated>2021-10-05T06:55:57.116Z</updated>
     
-    <content type="html"><![CDATA[<div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19pntqY0w8bFc86CphqhFdQasLD5y9vQXzKpyvGxPg8jPRSCZfTb02HtVpOUALnS2kNRdiiFE0Pl/Oulw71e5HSJYLzgcpF1hdWptvnbB/sReVs644cpawwrh2lqrkleeiSt3/5LqyBB841hA8HhNZtXcP/6r0eTeKwuAWzLskxmjXy/tsOhz3nvhKKDCmA4Cvn1OwYWmt9mxxpvJpdHrcxIvZjW0n4prYrd6Ia+rVTvPLHocbuw6P3rDxake80aDBce/Y9rQAGs2QW6iA8HMSAYeDUelSbWMGN1CKLNkQqWqKENGEXg0o0LpDlrjEOpxh1HE3sODTr9K1br2fQpZ5xQ2C+ZKHajLDL3cTPwjsrIdp3x0xI8iPZIDSJb+oA4Cf/6A5NdZau0sXTndAWwMJ6YH6Nj0LkuH5GWpcXiDmHW67zIY9tyzvf0WuV3bq9km/84MdOu1o2OsdJMKCjsYIZ1NUINrB0ABGzQlAAKtluGjFguU0yy89QkTqr0/YmEVrcilF3vz1Yk8GqgbjXBdkoCGn1SOrW0nlCagTspECpX8ie7mJOkCrhdRVHSs2Mr91a+deyX2RQk5YHnaAA2BvDC4maxmB430m6DfQqckxAMx3HEXh2O9/nkwE1cd++ZBbLBqehhuXr0hpLNZk3DhU5pQ+ef4OLtnouIefgQHVaa0gY9VBJZ0JWTygHY0pqLo7/mBAzPvUJckyecUcMge6zHVDmJGGwD/yECvNgYYdMDipgq11FONrJ+FnUzmq9gZTCNfBZTwO8TKMoLkMTV00ni9I1IY188cmSiyI0wKXPeqZ914p44Kpn5UjkeKc8KGR+yVg8EV7E2mIA3x2Ahpu9Wci6yvRdTJwINIPTnx8ET3CBp1t1y3gCbUZ8s6nVvIxiC17Ncn2kK2nBALbPsiXgSX3QN5d2jkM+mTCRaa7HENm0bv6DUXbdt5PP8Hxmkab/sBZ8Sy0ANqjf2ZwIueiRnMupi41y9aw=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/PFvM8LVf9YPYjACQ7DtAeecRpHlTuR6yEkXXJY1l84GfSPNpycUwPBDdodPeCK3H6jAmmjwbhviD+Dc+ohWEZYyuNM3Oa9z1nBZog4FBgTVLNmMI2APdDbGLGdWyY3IaRfAGZHO2NG4/TBqiyTE577aGv1zzjiSFG0m6PeFOBO7czZajJk8jOUt8syOENFNS2QdurqGhtZhRaSajD1YRQzyg/cAr8fIMBem6yrVnSt8v1hxW5NKUe4kxn40wwdDfvo2T/9Sd8SmTkoI1NnTPOtQh9HoeC0DsymprdU7UbW8wjVi42Nbd/XIhSG0WE04xZxACQ6SHmnkDZntaBsnf7dWfRlW18JnC71/1Sz8DZzvL9rJrK4+zrk2QJmcmdWxlsKJjNU7z65mCW63uHpENU8ja6aLGRCbR47QVe/5eh3Gg0cG37iV5FPT6Vd5nIFk+3rSAgdZDixJwjPjNUPfb7JljKqqkmfMaxfkRmsGZF+UoleyMsKQxiGxTSpVs7Ln4R3ACgcDynTlKr8ZOZdkE9KlPPJoDKov+LOXDuBYTLRd0U3BzjcesFZDIKQ+nt8a5Rs387puJxZIv1VVxAtdT2PrDNSSo4mGVVs8t9B18IsakVeenCVpF8XHFWP746nVmaNnEHWvQQfPoHyjjL3LH87qDURXTgRnXZQ3/sydqe/t1WretXd+IeqxSDy/kdOiudavPw0KN9yhR/tjY9vsLL2SKOV2Mfz5Q/T0rj3eotULVZu4hFA/kQHHNj114cx9eiocdzR6ZffFtnN9YswJwaTa5+6OWqoaxYr4mmzBZe8tkBwu4Fn+iEer9aUW0bxSyd1ShdXVvX5TiJZdSR8eCORpWwmekSbg9lIpw9pD+Ck+LxMS3wDXCatIowMkLal7AByDwAfm7v7VUjlsDsSQseCBigNAuW4hV5RCax8w+fQUjGi/iElxfTbmqAThnFlLoBaWLLiiwfIDulTVZRptbJSpdyOI118Io=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -456,7 +456,7 @@
     <link href="https://co2co2.cf/2020/04/20/%E5%A5%BD%E7%B4%AF%E5%95%8A/"/>
     <id>https://co2co2.cf/2020/04/20/好累啊/</id>
     <published>2020-04-19T16:00:00.000Z</published>
-    <updated>2021-10-05T07:04:05.785Z</updated>
+    <updated>2022-04-10T02:29:40.457Z</updated>
     
     <content type="html"><![CDATA[<p>克莱因瓶是在1882年被德国几何学大家菲立克斯·克莱因提出。克莱因瓶是一个瓶子底部有一个洞，延长瓶子的颈部，并且扭曲地进入瓶子内部，然后和底部的洞相连接。它和球面不同，一只苍蝇可以从瓶子的内部直接飞到外部而不用穿过表面，所以这个瓶子没有内外之分。</p><a id="more"></a><blockquote><p>关注公众号【钚止科技】，共享每日黑科技！</p></blockquote><p><img src="/medias/contact.jpg" alt></p><h2 id="小标题1"><a href="#小标题1" class="headerlink" title="小标题1"></a>小标题1</h2><p>听闻远方有你，动身跋涉千里。我吹过你吹过你的风，这算不算相拥；我走过你走过的路，这算不算相逢。我还是喜欢你，认真且怂，从一而终。</p><p><img src="http://img2.imgtn.bdimg.com/it/u=1161249410,1391437692&fm=26&gp=0.jpg" alt></p><h2 id="小标题2"><a href="#小标题2" class="headerlink" title="小标题2"></a>小标题2</h2><p>听闻远方有你，动身跋涉千里。我吹过你吹过你的风，这算不算相拥；我走过你走过的路，这算不算相逢。我还是喜欢你，认真且怂，从一而终。</p><h2 id="小标题3"><a href="#小标题3" class="headerlink" title="小标题3"></a>小标题3</h2><p>听闻远方有你，动身跋涉千里。我吹过你吹过你的风，这算不算相拥；我走过你走过的路，这算不算相逢。我还是喜欢你，认真且怂，从一而终。</p><blockquote><p>每日歌曲分享之《最天使》</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=39637563&auto=1&height=66"></iframe><p>最恨你那么久都不来见我一次，最爱你当远处传来你的相思。</p>]]></content>
     
