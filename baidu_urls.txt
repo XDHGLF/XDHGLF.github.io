@@ -1,33 +1,34 @@
-https://co2co2.cf/2022/04/05/文库下载方法汇总/
+https://co2co2.cf/2022/04/05/各种文库下载方法汇总/
 https://co2co2.cf/2021/10/05/为啥这样才行/
-https://co2co2.cf/2021/09/27/视频-超级浏览器/
-https://co2co2.cf/2021/03/28/资讯-置顶公告/
+https://co2co2.cf/2021/09/27/教你打造专属于自己的超级浏览器/
+https://co2co2.cf/2021/03/28/置顶公告/
 https://co2co2.cf/2021/02/20/测试测试55/
 https://co2co2.cf/2020/08/27/视频-3dsmax绘制钙钛矿/
 https://co2co2.cf/2020/08/18/测试测试33/
 https://co2co2.cf/2020/08/12/测试测试11/
 https://co2co2.cf/2020/08/11/测试文本/
-https://co2co2.cf/2020/07/26/瞎写/
-https://co2co2.cf/2020/05/05/有趣的函数图像——数学之美/
-https://co2co2.cf/2020/04/29/Yu Writer好用/
+https://co2co2.cf/2020/07/26/内容测试2/
+https://co2co2.cf/2020/05/05/GrafEq：小巧但强大的作图工具/
+https://co2co2.cf/2020/04/29/Yu Writer：一款开源免费好用的Markdown编辑器/
 https://co2co2.cf/2020/04/27/简单模板/
 https://co2co2.cf/2020/04/26/hahaha/
+https://co2co2.cf/2020/04/26/内容测试1/
 https://co2co2.cf/2020/04/26/4.26瞎写/
 https://co2co2.cf/2020/04/25/又是瞎写/
 https://co2co2.cf/2020/04/24/无法制造的瓶子——克莱因瓶/
 https://co2co2.cf/2020/04/23/等待拼凑/
 https://co2co2.cf/2020/04/21/没啥写的/
 https://co2co2.cf/2020/04/20/好累啊/
-https://co2co2.cf/2020/04/14/一只菜鸟的无聊生活/
+https://co2co2.cf/2020/04/14/Markdown语法初次尝试/
 https://co2co2.cf/2020/04/14/用GitHub创作的第一篇Blog/
 https://co2co2.cf/2020/04/02/无聊哎/
 https://co2co2.cf/2020/03/27/只有一个面的纸带——莫比乌斯带/
 https://co2co2.cf/2020/03/11/hello-world/
 https://co2co2.cf/2019/10/25/视频-ChemDraw绘制足球烯/
 https://co2co2.cf/2019/09/05/文学-测试1/
-https://co2co2.cf/2019/08/19/测试测试44/
+https://co2co2.cf/2019/08/19/使用jsDelivr + github搭建免费CDN/
 https://co2co2.cf/2019/08/15/测试测试22/
 https://co2co2.cf/2019/08/13/文学-测试2/
 https://co2co2.cf/2019/08/10/加密-加密文章测试/
-https://co2co2.cf/2019/08/09/test-helloworld/
-https://co2co2.cf/2019/08/09/test-NWUzmed-test/
+https://co2co2.cf/2019/08/09/Hexo教程和常用命令/
+https://co2co2.cf/2019/08/09/文章加密解密测试/
